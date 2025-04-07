@@ -38,21 +38,6 @@ The architecture diagram for the project is available here:
 You can find the Entity Relationship (ER) diagram here:  
  [ER Diagram](https://docs.google.com/document/d/1yl6xmWp0OoZCzIsZ5fOLyxQkj5XqJI62LwRWQJNVDYQ/edit?tab=t.v1364nt7irmm)
 
----
-
-##  UI Screenshot
-
-Here is a glimpse of the user interface:
-
-![UI Screenshot](https://example.com/ui-screenshot.png)
-
----
-
-##  Swagger UI Screenshot
-
-The project includes a Swagger-based API documentation for testing and exploring API endpoints:
-
-![Swagger Screenshot](https://example.com/swagger-screenshot.png)
 
 ---
 
