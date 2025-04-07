@@ -1,10 +1,10 @@
-# 🎬 My Website - Cineworld Ticket Booking System
+#  My Website - Cineworld Ticket Booking System
 
 Welcome to the **Cineworld Ticket Booking System** project! This web application allows users to browse, select, and book movie tickets at Cineworld cinemas. It offers a user-friendly interface, real-time seat availability, and a secure booking system.
 
 ---
 
-## 📌 Project Description
+## Project Description
 
 This is a full-stack web application built for managing movie ticket bookings at Cineworld. Users can:
 - View movie listings and showtimes
@@ -19,28 +19,28 @@ Admins can:
 
 ---
 
-## 📄 API Design Document
+##  API Design Document
 
 You can view the full API design document here:  
-👉 [API Design](https://example.com/api-design)
+[API Design](https://example.com/api-design)
 
 ---
 
-## 🏗️ Architecture Diagram
+##  Architecture Diagram
 
 The architecture diagram for the project is available here:  
-👉 [Architecture Diagram](https://docs.google.com/document/d/1yl6xmWp0OoZCzIsZ5fOLyxQkj5XqJI62LwRWQJNVDYQ/edit?tab=t.0)
+ [Architecture Diagram](https://docs.google.com/document/d/1yl6xmWp0OoZCzIsZ5fOLyxQkj5XqJI62LwRWQJNVDYQ/edit?tab=t.0)
 
 ---
 
 ## 🗃️ ER Diagram
 
 You can find the Entity Relationship (ER) diagram here:  
-👉 [ER Diagram](https://docs.google.com/document/d/1yl6xmWp0OoZCzIsZ5fOLyxQkj5XqJI62LwRWQJNVDYQ/edit?tab=t.v1364nt7irmm)
+ [ER Diagram](https://docs.google.com/document/d/1yl6xmWp0OoZCzIsZ5fOLyxQkj5XqJI62LwRWQJNVDYQ/edit?tab=t.v1364nt7irmm)
 
 ---
 
-## 💻 UI Screenshot
+##  UI Screenshot
 
 Here is a glimpse of the user interface:
 
@@ -48,7 +48,7 @@ Here is a glimpse of the user interface:
 
 ---
 
-## 🧪 Swagger UI Screenshot
+##  Swagger UI Screenshot
 
 The project includes a Swagger-based API documentation for testing and exploring API endpoints:
 
@@ -56,7 +56,7 @@ The project includes a Swagger-based API documentation for testing and exploring
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript (or your stack, e.g., React)
 - **Backend**: Java with Spring Boot
@@ -65,10 +65,4 @@ The project includes a Swagger-based API documentation for testing and exploring
 
 ---
 
-## 📂 Getting Started
 
-To run the project locally:
-
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
