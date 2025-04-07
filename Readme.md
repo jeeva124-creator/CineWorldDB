@@ -36,11 +36,9 @@ You can find the Entity Relationship (ER) diagram here:
 
 ## Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript (or your stack, e.g., React)
+- **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Java with Spring Boot
 - **Database**: MySQL
 - **API Documentation**: Swagger
-
----
 
 
