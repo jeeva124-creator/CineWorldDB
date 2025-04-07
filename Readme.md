@@ -29,14 +29,14 @@ You can view the full API design document here:
 ## 🏗️ Architecture Diagram
 
 The architecture diagram for the project is available here:  
-👉 [Architecture Diagram](https://example.com/architecture-diagram)
+👉 [Architecture Diagram](https://docs.google.com/document/d/1yl6xmWp0OoZCzIsZ5fOLyxQkj5XqJI62LwRWQJNVDYQ/edit?tab=t.0)
 
 ---
 
 ## 🗃️ ER Diagram
 
 You can find the Entity Relationship (ER) diagram here:  
-👉 [ER Diagram](https://example.com/er-diagram)
+👉 [ER Diagram](https://docs.google.com/document/d/1yl6xmWp0OoZCzIsZ5fOLyxQkj5XqJI62LwRWQJNVDYQ/edit?tab=t.v1364nt7irmm)
 
 ---
 
