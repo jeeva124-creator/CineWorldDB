@@ -19,13 +19,6 @@ Admins can:
 
 ---
 
-##  API Design Document
-
-You can view the full API design document here:  
-[API Design](https://example.com/api-design)
-
----
-
 ##  Architecture Diagram
 
 The architecture diagram for the project is available here:  
