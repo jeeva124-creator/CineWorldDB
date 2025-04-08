@@ -42,9 +42,7 @@ You can find the Entity Relationship (ER) diagram here:
 
 ## 💻 UI Screenshot
 
-Here is a glimpse of the user interface:
 
-![UI Screenshot](https://example.com/ui-screenshot.png)
 
 ---
 
